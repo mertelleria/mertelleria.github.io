@@ -587,7 +587,7 @@ a:hover, a:active, a:focus {
   transition: all 0.4s ease-in-out;
 }
 
-#contact input[type="submit"]:hover {
+#contact input[type="Enviar"]:hover {
   background: #000;
 }
 
