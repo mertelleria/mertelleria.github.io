@@ -591,6 +591,11 @@ a:hover, a:active, a:focus {
   background: #000;
 }
 
+#fcf-form {
+  display:block;
+}
+
+
 /*---------------------------------------
    Footer section              
 -----------------------------------------*/
